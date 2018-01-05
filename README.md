@@ -60,6 +60,8 @@
 
 ## <a name="nvm"></a>3. Setting up nvm / node / npm ##
 
+Get the latest nvm install instructions from [here](https://github.com/creationix/nvm)
+
 1. `wget https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh`
 2. `bash install.sh`
 3. `nvm install node`
